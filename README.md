@@ -2,11 +2,11 @@
 
 ### Connect with me:
 <div id="badges">
-  <a href="https://www.instagram.com/https://instagram.com/aleksandra.lesovskaya?r=nametag/">
-    <img width="90px" height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagramm Badge"/>
+  <a href="https://www.linkedin.com/in/thekeko/">
+    <img width="145px" height="40" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Instagramm Badge"/>
   </a>
   <a href="https://t.me/The_Keko">
-    <img width="90px" height="40" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegramm Badge"/> 
+    <img width="145px" height="40" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegramm Badge"/> 
   </a>
 </div>
    </div>
