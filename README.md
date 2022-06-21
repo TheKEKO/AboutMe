@@ -6,7 +6,7 @@
     <img width="90px" height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagramm Badge"/>
   </a>
   <a href="https://t.me/The_Keko">
-    <img width="80px" height="40" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegramm Badge"/> 
+    <img width="90px" height="40" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegramm Badge"/> 
   </a>
 </div>
    </div>
