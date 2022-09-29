@@ -5,8 +5,8 @@
 ### About Me :
 
   - 👩🏻‍💻 I like to write code.
-  - 🏔 I follow active lifestyle.
   - 💻 I'm fond of devices, mobile and web development.
+  -  i like Apple device and computer.
   
   ---
   
