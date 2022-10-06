@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Aleksandr! 
 ### I'm a IOS Developer
----
+  ---
   
 ### About Me :
 
@@ -35,4 +35,6 @@
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_json_official_icon_130502.png" title="Json" alt="Json" width="40" height="40"/>&nbsp;
 </div>
 
-
+  ---
+  
+![](https://komarev.com/ghpvc/?username=your-github-TheKEKO)
