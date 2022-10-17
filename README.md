@@ -5,9 +5,10 @@
   
 ### About Me :
 
-  - 👩🏻‍💻 I like to write code.
-  - 💻 I'm fond of devices, mobile and web development.
-  -  i like Apple device and computer.
+  - I like to write code;
+  - I like to work;
+  - I like to learn something new;
+  -  I like Apple device and computer.
   
   ---
   
