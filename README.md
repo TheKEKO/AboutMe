@@ -2,12 +2,18 @@
 
   ---
   
-### About Me :
+### Key Skills :
 
-  - I like to write code;
-  - I like to work;
-  - I like to learn something new;
-  - I like Apple  device and computer.
+  - UIkit, SwiftUI;
+  - Autolayout, Storyboard, SnapKit;
+  - OOP, SOLID;
+  - GCD;
+  - CoreData, Firebase, Realm, UserDefaults;
+  - JSON, URLSession, Alamofire;
+  - SPM, CocoaPods;
+  - MVC, MVP;
+  - Git, GitHub;
+  - Work on the methodology of Agile, Scrum;
   
   ---
   
