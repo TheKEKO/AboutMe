@@ -1,4 +1,4 @@
-### Me page on GitHub :
+### Mу page on GitHub :
 
 <a href="https://t.me/The_Keko"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=25&pause=800&width=500&height=100&lines=Hi+there+%F0%9F%99%8B%F0%9F%8F%BB;My+name+is+Aleksandr+Fogelev;I'm+a+IOS+Developer;%D0%A1lick+to+contact+me+%F0%9F%91%88%F0%9F%8F%BB" alt="Typing SVG" /></a>
 
