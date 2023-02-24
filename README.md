@@ -1,4 +1,4 @@
-<a href="https://github.com/TheKEKO"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B;My+name+is+Aleksandr+Fogelev!;I'm+a+IOS+Developer." alt="Typing SVG" /></a>
+<a href="https://github.com/TheKEKO"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&width=450&height=100&lines=Hi+there+%F0%9F%91%8B;My+name+is+Aleksandr+Fogelev!;I'm+a+IOS+Developer." alt="Typing SVG" /></a>
 
   ---
   
