@@ -4,7 +4,7 @@
 
   ---
   
-### Key Skills :
+### Key skills :
 
   - UIkit, SwiftUI;
   - Autolayout, Storyboard, SnapKit;
