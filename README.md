@@ -1,6 +1,3 @@
-### Hi there 👋 My name is Aleksandr! 
-### I'm a IOS Developer
-
 <a href="https://github.com/TheKEKO"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B;My+name+is+Aleksandr+Fogelev!;I'm+a+IOS+Developer." alt="Typing SVG" /></a>
 
   ---
