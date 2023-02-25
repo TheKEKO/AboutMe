@@ -15,7 +15,7 @@
   - SPM, CocoaPods;
   - MVC, MVP;
   - Git, GitHub;
-  - Work on the methodology of Agile, Scrum;
+  - Work on the methodology of Agile, Scrum.
   
   ---
   
