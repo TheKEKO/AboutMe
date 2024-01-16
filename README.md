@@ -7,16 +7,7 @@
   
 ### Key skills :
 
-  - UIkit, SwiftUI;
-  - Autolayout, Storyboard, SnapKit;
-  - OOP, SOLID;
-  - GCD;
-  - CoreData, Firebase, Realm, UserDefaults;
-  - JSON, URLSession, Alamofire;
-  - SPM, CocoaPods;
-  - MVC, MVP;
-  - Git, GitHub;
-  - Work on the methodology of Agile, Scrum.
+  - 
   
   ---
   
