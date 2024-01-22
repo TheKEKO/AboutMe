@@ -12,6 +12,7 @@
   ---
   
   ### Contact me:
+  <div id="badges">
     <div>
       <a href="https://t.me/The_Keko">
         <img
@@ -31,6 +32,7 @@
           alt="linkedin Badge"
         />
       </a>
+    </div>
     </div>
   ---
 
