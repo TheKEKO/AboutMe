@@ -16,7 +16,7 @@
     <div>
       <a href="https://t.me/The_Keko">
         <img
-          width="140px"
+          width="155px"
           height="40"
           src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
           alt="Telegramm Badge"
@@ -26,7 +26,7 @@
     <div>
       <a href="https://www.linkedin.com/in/thekeko/">
         <img
-          width="140px"
+          width="155px"
           height="40"
           src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"
           alt="linkedin Badge"
