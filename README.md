@@ -14,7 +14,7 @@
   ### Contact me:
   <div id="badges">
     <div>
-      <a href="https://t.me/The_Keko">
+      <a href="https://t.me/..">
         <img
           width="155px"
           height="40"
@@ -24,7 +24,7 @@
       </a>
     </div>
     <div>
-      <a href="https://www.linkedin.com/in/thekeko/">
+      <a href="https://www.linkedin.com/in/..">
         <img
           width="155px"
           height="40"
